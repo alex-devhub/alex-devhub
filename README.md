@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex
 
-<!--
-**alex-devhub/alex-devhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-curious developer with a strong foundation in software development and practical problem-solving.  
+I build clean, maintainable applications that integrate automation, APIs, and intelligent systems, guided by an understanding of the software development lifecycle (SDLC).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Core Skills
+- Backend development and API integration
+- Automation and AI-assisted workflows
+- Data processing, structured logging, and database management
+- Web development fundamentals: HTML, CSS, JavaScript
+
+---
+
+> I enjoy turning ideas into intelligent software that solves real-world problems.
