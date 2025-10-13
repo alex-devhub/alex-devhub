@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alex
 
 AI-curious developer with a strong foundation in software development and practical problem-solving.  
-I build clean, maintainable applications that integrate automation, APIs, and intelligent systems, guided by an understanding of the software development lifecycle (SDLC).
+I build clean, maintainable applications that integrate automation, APIs, and intelligent systems.
 
 ---
 
