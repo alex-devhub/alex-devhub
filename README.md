@@ -18,6 +18,7 @@ I’m interested in building practical tools that use APIs, automation, AI integ
 
 ### Patterna
 Configurable AI knowledge assistant built with React, TypeScript, a server-side API route, and the Gemini API.
+
 🔗 Repository: https://github.com/alex-devhub/patterna-ai-assistant
 
 The project demonstrates:
@@ -28,6 +29,7 @@ The project demonstrates:
 
 ### Skyblock Trade Analyser AI
 Early personal project using Node.js, Discord.js, and Gemini to experiment with analysing unstructured game trade messages and turning them into clearer structured output.
+
 🔗 Repository: https://github.com/alex-devhub/skyblock-trade-analyser-ai
 
 This was mainly a self-directed learning project and helped me practice API usage, automation, and handling messy user-generated data.
